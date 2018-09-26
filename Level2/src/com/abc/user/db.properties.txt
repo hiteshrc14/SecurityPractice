@@ -1,0 +1,6 @@
+DRIVER = com.mysql.jdbc.Driver
+CONNECTION_STRING = jdbc:mysql://localhost:8889/
+DB_NAME = cloudshare
+USERNAME = root
+PASSWORD = root
+DIRPATH = /opt/cloudshare
